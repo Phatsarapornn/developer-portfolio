@@ -10,7 +10,7 @@ const BlogUI = ({ classes, blogData }) => {
 
   return (
     <>
-      {blogData.length > 0 && (
+      {/* {blogData.length > 0 && (
         <div
           className="blog" id="blog"
           style={{ backgroundColor: theme.secondary }}>
@@ -40,7 +40,7 @@ const BlogUI = ({ classes, blogData }) => {
             )}
           </div>
         </div>
-      )}
+      )} */}
 
     </>
   );
